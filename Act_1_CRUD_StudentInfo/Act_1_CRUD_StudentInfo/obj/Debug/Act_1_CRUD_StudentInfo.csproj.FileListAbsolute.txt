@@ -1,0 +1,9 @@
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\bin\Debug\Act_1_CRUD_StudentInfo.exe.config
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\bin\Debug\Act_1_CRUD_StudentInfo.exe
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\bin\Debug\Act_1_CRUD_StudentInfo.pdb
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\obj\Debug\Act_1_CRUD_StudentInfo.csprojResolveAssemblyReference.cache
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\obj\Debug\Act_1_CRUD_StudentInfo.StudentInfo.resources
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\obj\Debug\Act_1_CRUD_StudentInfo.Properties.Resources.resources
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\obj\Debug\Act_1_CRUD_StudentInfo.csproj.GenerateResource.Cache
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\obj\Debug\Act_1_CRUD_StudentInfo.exe
+C:\donilfiles\AIS\Act_1_CRUD_StudentInfo\Act_1_CRUD_StudentInfo\obj\Debug\Act_1_CRUD_StudentInfo.pdb
